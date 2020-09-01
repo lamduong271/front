@@ -5,8 +5,10 @@ export const getTheme = {
     desktop: '1440px',
   },
   color: {
-    primary: '#2D3047',
-    hoverPrimary: '#282E',
+    white: '#fff',
+    text: '#484848',
+    primary: '#d8d8d8',
+    hoverPrimary: '#979797',
     secondary: '#EE8434',
     hoverSecondary: '#D06311'
   },
